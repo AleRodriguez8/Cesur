@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 960px;
+}
+header{
+    background-color: aqua;
+    height: 200px;
+}
+.header-nav{
+    height: 100px;
+    background-color: blueviolet;
+}
+.header-nav__menu{
+
+}
+.header-nav__menu-item{
+    display: inline;
+    margin: 10px;
+}
+.main-content{
+    display: inline;
+}
